@@ -2,6 +2,8 @@ LeetCode
 ----------
 LeetCode Solutions
 
+这里面的代码，部分是我自己写的，部分是参照大神们的更优秀的的代码修改的。
+
 | Num  |    Title | Java |Python|Difficulty|
 |:-----: |:-----------:|:-----:|:-----:|:-----:|
 |[226][226]|[Invert Binary Tree][226]|×|[√](./python/226_Invert_Binary_Tree.py)|Easy|
@@ -16,7 +18,7 @@ LeetCode Solutions
 |[151][151]|[Reverse Words in a String][151]|×|[√](./python/151_Reverse_Words_in_a_String.py)|Medium|
 |[150][150]|[Evaluate Reverse Polish Notation][150]|×|[√](./python/150_Evaluate_Reverse_Polish_Notation.py)|Medium|
 |[141][141]|[Linked List Cycle][141]|[√](./java/141/Solution.java)|×|Medium|
-|[125][125]|[Valid Palindrome][125]|[√](./python/125_Valid_Palindrome.py)|×|Easy|
+|[125][125]|[Valid Palindrome][125]|×|[√](./python/125_Valid_Palindrome.py)|Easy|
 |[88][88]|[Merge Sorted Array][88]|×|[√](./python/88_Merge_Sorted_Array.py)|Easy|
 |[69][69]|[Sqrt(x)][69]|[√](./java/69/Solution.java)|[√](./python/69_Sqrt_x.py)|Medium|
 
