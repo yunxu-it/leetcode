@@ -12,7 +12,7 @@ LeetCode Solutions
 |[217][217]|[Contains Duplicate][217]|×|[√](./python/217_Contains_Duplicate.py)|Easy|
 |[206][206]|[Reverse Linked List][206]|×|[√](./python/206_Reverse_Linked_List.py)|Easy|
 |[205][205]|[Isomorphic Strings][205]|×|[√](./python/205_Isomorphic_Strings.py)|Easy|
-|[179][179]|[Largest Number][179]|×|[√](./python/179/179_Largest_Number.py)|Medium|
+|[179][179]|[Largest Number][179]|×|[√](./python/179_Largest_Number.py)|Medium|
 |[174][174]|[Dungeon Game][174]|×|[√](./python/174_Dungeon_Game.py)|Hard|
 |[172][172]|[Factorial Trailing Zeroes][172]|×|[√](./python/172_Factorial_Trailing_Zeroes.py)|Easy|
 |[151][151]|[Reverse Words in a String][151]|×|[√](./python/151_Reverse_Words_in_a_String.py)|Medium|
@@ -21,8 +21,8 @@ LeetCode Solutions
 |[125][125]|[Valid Palindrome][125]|×|[√](./python/125_Valid_Palindrome.py)|Easy|
 |[88][88]|[Merge Sorted Array][88]|×|[√](./python/88_Merge_Sorted_Array.py)|Easy|
 |[69][69]|[Sqrt(x)][69]|[√](./java/69/Solution.java)|[√](./python/69_Sqrt_x.py)|Medium|
-|[2][2]|[Add Two Numbers][2]|×|[√](./python/2/2_Add_Two_Numbers.py)|Medium|
-|[1][1]|[Two Sum][1]|×|[√](./python/1/1_Two_Sum.py)|Medium|
+|[2][2]|[Add Two Numbers][2]|×|[√](./python/2_Add_Two_Numbers.py)|Medium|
+|[1][1]|[Two Sum][1]|×|[√](./python/1_Two_Sum.py)|Medium|
 
 
 [1]:https://leetcode.com/problems/two-sum/
