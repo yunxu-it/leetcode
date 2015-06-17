@@ -21,7 +21,12 @@ LeetCode Solutions
 |[125][125]|[Valid Palindrome][125]|×|[√](./python/125_Valid_Palindrome.py)|Easy|
 |[88][88]|[Merge Sorted Array][88]|×|[√](./python/88_Merge_Sorted_Array.py)|Easy|
 |[69][69]|[Sqrt(x)][69]|[√](./java/69/Solution.java)|[√](./python/69_Sqrt_x.py)|Medium|
+|[2][2]|[Add Two Numbers][2]|×|[√](./python/2/2_Add_Two_Numbers.py)|Medium|
+|[1][1]|[Two Sum][1]|×|[√](./python/1/1_Two_Sum.py)|Medium|
 
+
+[1]:https://leetcode.com/problems/two-sum/
+[2]:https://leetcode.com/problems/add-two-numbers/
 [69]:https://oj.leetcode.com/problems/sqrtx/
 [88]:https://leetcode.com/problems/merge-sorted-array/
 [125]:https://leetcode.com/problems/valid-palindrome/
