@@ -24,7 +24,7 @@
 
 ***Difficulty:*** *Easy = ★  Medium = ★★  Hard = ★★★*
 
-[1]:*https*://leetcode.com/problems/two-sum/
+[1]:https://leetcode.com/problems/two-sum/
 [2]:https://leetcode.com/problems/add-two-numbers/
 [69]:https://oj.leetcode.com/problems/sqrtx/
 [88]:https://leetcode.com/problems/merge-sorted-array/
