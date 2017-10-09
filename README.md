@@ -1,34 +1,34 @@
-LeetCode
-----------
-LeetCode Solutions
+### LeetCode
+> leetcode练习记录
 
-这里面的代码，部分是我自己写的，部分是参照大神们的更优秀的的代码修改的。
+| Num  | Title                                   |                Java                 |                  Python                  | Difficulty |
+| :--: | :-------------------------------------- | :---------------------------------: | :--------------------------------------: | :--------: |
+| 226  | [Invert Binary Tree][226]               |                  ×                  | [√](./python/226_Invert_Binary_Tree.py)  |     ★      |
+| 225  | [Implement Stack using Queues][225]     |                  ×                  | [√](./python/225_Implement_Stack_using_Queues.py) |     ★★     |
+| 219  | [Contains Duplicate II][219]            |                  ×                  | [√](./python/219_Contains_Duplicate_II.py) |     ★      |
+| 217  | [Contains Duplicate][217]               |                  ×                  | [√](./python/217_Contains_Duplicate.py)  |     ★      |
+| 206  | [Reverse Linked List][206]              |                  ×                  | [√](./python/206_Reverse_Linked_List.py) |     ★      |
+| 205  | [Isomorphic Strings][205]               |                  ×                  | [√](./python/205_Isomorphic_Strings.py)  |     ★      |
+| 179  | [Largest Number][179]                   |                  ×                  |   [√](./python/179_Largest_Number.py)    |     ★★     |
+| 174  | [Dungeon Game][174]                     |                  ×                  |    [√](./python/174_Dungeon_Game.py)     |    ★★★     |
+| 172  | [Factorial Trailing Zeroes][172]        |                  ×                  | [√](./python/172_Factorial_Trailing_Zeroes.py) |     ★      |
+| 151  | [Reverse Words in a String][151]        |                  ×                  | [√](./python/151_Reverse_Words_in_a_String.py) |     ★★     |
+| 150  | [Evaluate Reverse Polish Notation][150] |                  ×                  | [√](./python/150_Evaluate_Reverse_Polish_Notation.py) |     ★★     |
+| 141  | [Linked List Cycle][141]                | [√](./java/leetcode/src/LC141.java) |                    ×                     |     ★★     |
+| 125  | [Valid Palindrome][125]                 |                  ×                  |  [√](./python/125_Valid_Palindrome.py)   |     ★      |
+| 118  | [Pascal's Triangle][118]                | [√](./java/leetcode/src/LC118.java) |                    ×                     |     ★      |
+|  88  | [Merge Sorted Array][88]                |                  ×                  |  [√](./python/88_Merge_Sorted_Array.py)  |     ★      |
+|  69  | [Sqrt(x)][69]                           | [√](./java/leetcode/src/LC069.java) |        [√](./python/69_Sqrt_x.py)        |     ★★     |
+|  2   | [Add Two Numbers][2]                    |                  ×                  |    [√](./python/2_Add_Two_Numbers.py)    |     ★★     |
+|  1   | [Two Sum][1]                            |                  ×                  |        [√](./python/1_Two_Sum.py)        |     ★★     |
 
-| Num  |    Title | Java |Python|Difficulty|
-|:-----: |:-----------:|:-----:|:-----:|:-----:|
-|[226][226]|[Invert Binary Tree][226]|×|[√](./python/226_Invert_Binary_Tree.py)|Easy|
-|[225][225]|[Implement Stack using Queues][225]|×|[√](./python/225_Implement_Stack_using_Queues.py)|Medium|
-|[219][219]|[Contains Duplicate II][219]|×|[√](./python/219_Contains_Duplicate_II.py)|Easy|
-|[217][217]|[Contains Duplicate][217]|×|[√](./python/217_Contains_Duplicate.py)|Easy|
-|[206][206]|[Reverse Linked List][206]|×|[√](./python/206_Reverse_Linked_List.py)|Easy|
-|[205][205]|[Isomorphic Strings][205]|×|[√](./python/205_Isomorphic_Strings.py)|Easy|
-|[179][179]|[Largest Number][179]|×|[√](./python/179_Largest_Number.py)|Medium|
-|[174][174]|[Dungeon Game][174]|×|[√](./python/174_Dungeon_Game.py)|Hard|
-|[172][172]|[Factorial Trailing Zeroes][172]|×|[√](./python/172_Factorial_Trailing_Zeroes.py)|Easy|
-|[151][151]|[Reverse Words in a String][151]|×|[√](./python/151_Reverse_Words_in_a_String.py)|Medium|
-|[150][150]|[Evaluate Reverse Polish Notation][150]|×|[√](./python/150_Evaluate_Reverse_Polish_Notation.py)|Medium|
-|[141][141]|[Linked List Cycle][141]|[√](./java/141/Solution.java)|×|Medium|
-|[125][125]|[Valid Palindrome][125]|×|[√](./python/125_Valid_Palindrome.py)|Easy|
-|[88][88]|[Merge Sorted Array][88]|×|[√](./python/88_Merge_Sorted_Array.py)|Easy|
-|[69][69]|[Sqrt(x)][69]|[√](./java/69/Solution.java)|[√](./python/69_Sqrt_x.py)|Medium|
-|[2][2]|[Add Two Numbers][2]|×|[√](./python/2_Add_Two_Numbers.py)|Medium|
-|[1][1]|[Two Sum][1]|×|[√](./python/1_Two_Sum.py)|Medium|
+***Difficulty:*** *Easy = ★  Medium = ★★  Hard = ★★★*
 
-
-[1]:https://leetcode.com/problems/two-sum/
+[1]:*https*://leetcode.com/problems/two-sum/
 [2]:https://leetcode.com/problems/add-two-numbers/
 [69]:https://oj.leetcode.com/problems/sqrtx/
 [88]:https://leetcode.com/problems/merge-sorted-array/
+[118]:https://leetcode.com/problems/pascals-triangle/description/
 [125]:https://leetcode.com/problems/valid-palindrome/
 [141]:https://oj.leetcode.com/problems/linked-list-cycle/
 [150]:https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/

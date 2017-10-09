@@ -1,16 +1,20 @@
-/**
- * Definition for singly-linked list.
- * class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
+/*
+  Definition for singly-linked list.
+  class ListNode {
+  int val;
+  ListNode next;
+  ListNode(int x) {
+  val = x;
+  next = null;
+  }
+  }
  */
 
-public class Solution {
+/**
+ * Date: 2015/2/4
+ * Origin: https://leetcode.com/problems/linked-list-cycle/description/
+ */
+public class LC141 {
     public boolean hasCycle(ListNode head) {
         ListNode ln1, ln2;
         if (head == null)
@@ -27,4 +31,15 @@ public class Solution {
         }
         return false;
     }
+
+    class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode(int x) {
+            val = x;
+            next = null;
+        }
+    }
 }
+
