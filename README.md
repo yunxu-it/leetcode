@@ -3,6 +3,7 @@
 
 | Num  | Title                                   |                Java                 |                  Python                  | Difficulty |
 | :--: | :-------------------------------------- | :---------------------------------: | :--------------------------------------: | :--------: |
+| 232  | [Implement Queue using Stacks][232]     | [√](./java/leetcode/src/LC232.java) |                    x                     |     ★      |
 | 226  | [Invert Binary Tree][226]               |                  ×                  | [√](./python/226_Invert_Binary_Tree.py)  |     ★      |
 | 225  | [Implement Stack using Queues][225]     |                  ×                  | [√](./python/225_Implement_Stack_using_Queues.py) |     ★★     |
 | 219  | [Contains Duplicate II][219]            |                  ×                  | [√](./python/219_Contains_Duplicate_II.py) |     ★      |
@@ -42,4 +43,5 @@
 [219]:https://leetcode.com/problems/contains-duplicate-ii/
 [225]:https://leetcode.com/problems/implement-stack-using-queues/
 [226]:https://leetcode.com/problems/invert-binary-tree/
+[232]:https://leetcode.com/problems/implement-queue-using-stacks/description/
 
