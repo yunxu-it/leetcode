@@ -1,27 +1,27 @@
 ### LeetCode
 > leetcode练习记录
 
-| Num  | Title                                   |                Java                 |                  Python                  | Difficulty |
-| :--: | :-------------------------------------- | :---------------------------------: | :--------------------------------------: | :--------: |
-| 232  | [Implement Queue using Stacks][232]     | [√](./java/leetcode/src/LC232.java) |                    x                     |     ★      |
-| 226  | [Invert Binary Tree][226]               |                  ×                  | [√](./python/226_Invert_Binary_Tree.py)  |     ★      |
-| 225  | [Implement Stack using Queues][225]     |                  ×                  | [√](./python/225_Implement_Stack_using_Queues.py) |     ★★     |
-| 219  | [Contains Duplicate II][219]            |                  ×                  | [√](./python/219_Contains_Duplicate_II.py) |     ★      |
-| 217  | [Contains Duplicate][217]               |                  ×                  | [√](./python/217_Contains_Duplicate.py)  |     ★      |
-| 206  | [Reverse Linked List][206]              |                  ×                  | [√](./python/206_Reverse_Linked_List.py) |     ★      |
-| 205  | [Isomorphic Strings][205]               |                  ×                  | [√](./python/205_Isomorphic_Strings.py)  |     ★      |
-| 179  | [Largest Number][179]                   |                  ×                  |   [√](./python/179_Largest_Number.py)    |     ★★     |
-| 174  | [Dungeon Game][174]                     |                  ×                  |    [√](./python/174_Dungeon_Game.py)     |    ★★★     |
-| 172  | [Factorial Trailing Zeroes][172]        |                  ×                  | [√](./python/172_Factorial_Trailing_Zeroes.py) |     ★      |
-| 151  | [Reverse Words in a String][151]        |                  ×                  | [√](./python/151_Reverse_Words_in_a_String.py) |     ★★     |
-| 150  | [Evaluate Reverse Polish Notation][150] |                  ×                  | [√](./python/150_Evaluate_Reverse_Polish_Notation.py) |     ★★     |
-| 141  | [Linked List Cycle][141]                | [√](./java/leetcode/src/LC141.java) |                    ×                     |     ★★     |
-| 125  | [Valid Palindrome][125]                 |                  ×                  |  [√](./python/125_Valid_Palindrome.py)   |     ★      |
-| 118  | [Pascal's Triangle][118]                | [√](./java/leetcode/src/LC118.java) |                    ×                     |     ★      |
-|  88  | [Merge Sorted Array][88]                |                  ×                  |  [√](./python/88_Merge_Sorted_Array.py)  |     ★      |
-|  69  | [Sqrt(x)][69]                           | [√](./java/leetcode/src/LC069.java) |        [√](./python/69_Sqrt_x.py)        |     ★★     |
-|  2   | [Add Two Numbers][2]                    |                  ×                  |    [√](./python/2_Add_Two_Numbers.py)    |     ★★     |
-|  1   | [Two Sum][1]                            |                  ×                  |        [√](./python/1_Two_Sum.py)        |     ★★     |
+| Num  | Title                                   |            Java            |                  Python                  | Difficulty |
+| :--: | :-------------------------------------- | :------------------------: | :--------------------------------------: | :--------: |
+| 232  | [Implement Queue using Stacks][232]     | [√](./java/src/LC232.java) |                    x                     |     ★      |
+| 226  | [Invert Binary Tree][226]               |             ×              | [√](./python/226_Invert_Binary_Tree.py)  |     ★      |
+| 225  | [Implement Stack using Queues][225]     |             ×              | [√](./python/225_Implement_Stack_using_Queues.py) |     ★★     |
+| 219  | [Contains Duplicate II][219]            |             ×              | [√](./python/219_Contains_Duplicate_II.py) |     ★      |
+| 217  | [Contains Duplicate][217]               |             ×              | [√](./python/217_Contains_Duplicate.py)  |     ★      |
+| 206  | [Reverse Linked List][206]              |             ×              | [√](./python/206_Reverse_Linked_List.py) |     ★      |
+| 205  | [Isomorphic Strings][205]               |             ×              | [√](./python/205_Isomorphic_Strings.py)  |     ★      |
+| 179  | [Largest Number][179]                   |             ×              |   [√](./python/179_Largest_Number.py)    |     ★★     |
+| 174  | [Dungeon Game][174]                     |             ×              |    [√](./python/174_Dungeon_Game.py)     |    ★★★     |
+| 172  | [Factorial Trailing Zeroes][172]        |             ×              | [√](./python/172_Factorial_Trailing_Zeroes.py) |     ★      |
+| 151  | [Reverse Words in a String][151]        |             ×              | [√](./python/151_Reverse_Words_in_a_String.py) |     ★★     |
+| 150  | [Evaluate Reverse Polish Notation][150] |             ×              | [√](./python/150_Evaluate_Reverse_Polish_Notation.py) |     ★★     |
+| 141  | [Linked List Cycle][141]                | [√](./java/src/LC141.java) |                    ×                     |     ★★     |
+| 125  | [Valid Palindrome][125]                 |             ×              |  [√](./python/125_Valid_Palindrome.py)   |     ★      |
+| 118  | [Pascal's Triangle][118]                | [√](./java/src/LC118.java) |                    ×                     |     ★      |
+|  88  | [Merge Sorted Array][88]                |             ×              |  [√](./python/88_Merge_Sorted_Array.py)  |     ★      |
+|  69  | [Sqrt(x)][69]                           | [√](./java/src/LC069.java) |        [√](./python/69_Sqrt_x.py)        |     ★★     |
+|  2   | [Add Two Numbers][2]                    |             ×              |    [√](./python/2_Add_Two_Numbers.py)    |     ★★     |
+|  1   | [Two Sum][1]                            |             ×              |        [√](./python/1_Two_Sum.py)        |     ★★     |
 
 ***Difficulty:*** *Easy = ★  Medium = ★★  Hard = ★★★*
 
