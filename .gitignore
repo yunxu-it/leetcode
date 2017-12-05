@@ -126,4 +126,5 @@ venv.bak/
 .mypy_cache/
 
 .idea/
+*/out/
 *.iml
