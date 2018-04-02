@@ -14,7 +14,7 @@
  * Date: 2015/2/4
  * Origin: https://leetcode.com/problems/linked-list-cycle/description/
  */
-public class LC141 {
+public class LC0141 {
     public boolean hasCycle(ListNode head) {
         ListNode ln1, ln2;
         if (head == null)

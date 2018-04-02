@@ -5,7 +5,7 @@ import java.util.List;
  * Date: 2017/10/8
  * Origin: https://leetcode.com/problems/pascals-triangle/description/
  */
-public class LC118 {
+public class LC0118 {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> allRows = new ArrayList<>();
         for (int i = 1; i <= numRows; i++) {
