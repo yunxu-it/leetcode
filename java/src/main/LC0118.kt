@@ -1,3 +1,5 @@
+package main
+
 import java.util.ArrayList
 
 /**
@@ -32,13 +34,5 @@ class LC0118 {
         }
 
         return allRows
-    }
-
-
-    companion object {
-        @JvmStatic
-        fun main(args: Array<String>) {
-            println(LC0118().generate(5))
-        }
     }
 }

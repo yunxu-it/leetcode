@@ -1,4 +1,4 @@
-import java.util.Arrays
+package main
 
 class LC0001 {
 
@@ -13,13 +13,5 @@ class LC0001 {
             }
         }
         return intArrayOf(0, 0)
-    }
-
-    companion object {
-        @JvmStatic
-        fun main(args: Array<String>) {
-            val solution = LC0001()
-            println(solution.twoSum(intArrayOf(3, 2, 4), 6).contentToString())
-        }
     }
 }

@@ -1,3 +1,5 @@
+package main
+
 import java.util.Stack
 
 /**
@@ -46,8 +48,8 @@ internal class MyQueue {
 
 
 /**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue obj = new MyQueue();
+ * Your main.MyQueue object will be instantiated and called as such:
+ * main.MyQueue obj = new main.MyQueue();
  * obj.push(x);
  * int param_2 = obj.pop();
  * int param_3 = obj.peek();
@@ -55,14 +57,14 @@ internal class MyQueue {
  */
 
 //  better solution
-// class MyQueue {
+// class main.MyQueue {
 //
 //    private final Stack<Integer> queue;
 //
 //    /**
 //     * Initialize your data structure here.
 //     */
-//    public MyQueue() {
+//    public main.MyQueue() {
 //        queue = new Stack<>();
 //    }
 //
