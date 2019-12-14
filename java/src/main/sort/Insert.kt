@@ -13,10 +13,10 @@ class Insert {
                 while (j > 0 && nums[j - 1] > temp) {
                     nums[j] = nums[j - 1]
                     j--
-//                    println(nums.toList().toString())
                 }
-                nums[j] = temp;
+                nums[j] = temp
             }
+            println(nums.toList().toString())
         }
     }
 }
