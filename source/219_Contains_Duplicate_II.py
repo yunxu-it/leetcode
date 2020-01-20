@@ -10,7 +10,7 @@ class Solution:
             return False
 
         coll = {}
-        for i in xrange(len(nums)):
+        for i in range(len(nums)):
             if coll.get(nums[i]) is None:
                 coll[nums[i]] = i
             else:

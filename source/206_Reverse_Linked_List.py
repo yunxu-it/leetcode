@@ -9,7 +9,7 @@ class Solution:
     def reverseList(self, head):
         last, cur = None, head
         while cur:
-            next = cur.next
+            next = cur.__next__
             cur.next = last
             last = cur
             cur = next

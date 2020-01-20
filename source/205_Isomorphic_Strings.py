@@ -9,7 +9,7 @@ class Solution:
     #By mathsam
     #https://leetcode.com/discuss/36438/1-liner-in-python
     def isIsomorphic(self, s, t):
-        return map(s.find,s) == map(t.find,t)
+        return list(map(s.find,s)) == list(map(t.find,t))
 
 s = Solution()
-print s.isIsomorphic("ab","ca")
+print(s.isIsomorphic("ab","ca"))

@@ -21,5 +21,5 @@ t = time()
 nums = [i for i in range(32044)]
 target = 16021
 S = Solution()
-print(S.twoSum(nums, target))
-print(time() - t)
+print((S.twoSum(nums, target)))
+print((time() - t))

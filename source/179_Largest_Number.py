@@ -15,7 +15,7 @@ class Solution:
     
     def largestNumber(self, num):
         comp = lambda x,y: 1 if x+y > y+x else -1 if x+y < y+x  else 0
-        num = map(str,num)
+        num = list(map(str,num))
         num.sort(cmp= comp,reverse = True)
         return str(int(''.join(num)))
 

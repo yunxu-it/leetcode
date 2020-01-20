@@ -12,7 +12,7 @@ class Solution:
             if A[i] < B[j]:
                 i += 1
             else:
-                A.insert(i,B[j])
+                A.insert(i, B[j])
                 i += 1
                 m += 1
                 j += 1
