@@ -4,10 +4,7 @@ import java.util.*
 import kotlin.math.max
 import kotlin.math.min
 
-/**
- * https://leetcode-cn.com/problems/3sum/
- *
- */
+
 class LC1313 {
     class Solution {
         fun decompressRLElist(nums: IntArray): IntArray {
