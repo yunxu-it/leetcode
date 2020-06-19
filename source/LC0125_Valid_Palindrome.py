@@ -10,7 +10,7 @@ class Solution:
     def isPalindrome(self, s):
         s = s.lower()
         l = re.findall(r'[\w]', s)
-        for i in range(len(l) / 2):
+        for i in range(len(l) // 2):
             if not (l[i] == l[-1 - i]):
                 return False
         return True

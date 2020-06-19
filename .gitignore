@@ -129,3 +129,4 @@ venv.bak/
 */out/
 *.iml
 /.idea/
+/test/_trial_temp/

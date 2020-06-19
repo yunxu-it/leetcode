@@ -15,7 +15,7 @@
 | [172](./source/172_Factorial_Trailing_Zeroes.py)   | [Factorial Trailing Zeroes][172]       |     ★      |
 | [151](./source/151_Reverse_Words_in_a_String.py)     | [Reverse Words in a String][151]       |     ★★     |
 | [150](./source/150_Evaluate_Reverse_Polish_Notation.py)  | [Evaluate Reverse Polish Notation][150]  |     ★★     |
-| [125](./source/125_Valid_Palindrome.py)  | [Valid Palindrome][125]                  |     ★      |
+| [125](source/LC0125_Valid_Palindrome.py)  | [Valid Palindrome][125]                  |     ★      |
 | [88](./source/88_Merge_Sorted_Array.py)      | [Merge Sorted Array][88]               |     ★      |
 | [ 2 ](./source/2_Add_Two_Numbers.py)      | [Add Two Numbers][2]                  |     ★★     |
 | [ 1 ](./source/1_Two_Sum.py)          | [Two Sum][1]                            |     ★★     |
